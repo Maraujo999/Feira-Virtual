@@ -1,0 +1,6 @@
+CREATE TABLE empresa (
+
+	 empresa_id INT PRIMARY KEY AUTO_INCREMENT,
+	 nome_empresa VARCHAR(45)
+
+)ENGINE=InnoDB DEFAULT CHARSET=utf8;
